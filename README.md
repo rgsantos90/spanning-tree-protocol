@@ -4,7 +4,7 @@ Configured a redundant three-switch network in Cisco Packet Tracer and tested ST
 
 ## Topology
 
-![STP network topology](topology.png)
+![STP network topology](TOPOLOGY.png)
 
 - Three Cisco 2960 switches connected in a triangle.
 - Gigabit Ethernet links, using VLAN 1.
